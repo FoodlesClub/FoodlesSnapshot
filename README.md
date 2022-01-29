@@ -263,4 +263,3 @@ Address	Number of serum
 0xf9d29b1ae5416f139ad0fb426b3fc8ac8822c982	1
 0xfb33d16d745444200cd2493cd2e98108fb2cba28	1
 0xfbcd56ab1a384e2a42f871e229fc60c92491532b	1
-![image](https://user-images.githubusercontent.com/98634250/151649582-b25e3100-d990-4056-a074-b51db0ad9a46.png)
